@@ -1,0 +1,56 @@
+{
+    "ServiceMain": {
+      "ourServices": "የምንሰጣችው አገልግሎቶች ",
+      "seeMore": "ተጨማሪ ይማእለቱ ",
+      "loading": "Loading...",
+      "error": "Error"
+    },
+    "product": {
+      "ourProduct": "የኛ ምርቶች",
+      "seeMore": "ተጨማሪ ይማእለቱ ",
+      "loading": "Loading...",
+      "error": "Error",
+    "readmore": "ተጨማሪ ያንብቡ",
+    "detail":"ዝርዝር"
+
+
+    },
+    "Header": {
+      "home": "ቤት",
+      "about": "ስለ እኛ",
+      "service": "አገልግሎቶችን",
+      "product": "ምርቶቻችን",
+      "contact":"አግኝ",
+      "faq" :"ተደጋጋሚ ትያቄዎች"
+    },
+    "WeAre":{
+      "weare":"እኛ ",
+      "XXElectronicsMaintainanceAndSales":"XX ኤሌክትሮኒችስ ጥገና  እና ሽያጭ",
+      "Atour":"በእኛ ካምፓኒ፣ የእርስዎን ኤሌክትሮኒክስ በተቀላጠፈ እና በብቃት እንዲሰራ ለማድረግ እንጓጓለን። የእኛ የባለሙያ ቴክኒሻኖች እና የሽያጭ ባለሙያዎች ለሁሉም የኤሌክትሮኒክስ ፍላጎቶችዎ ከፍተኛ ደረጃ የጥገና እና የሽያጭ አገልግሎቶችን ለማቅረብ ቆርጠዋል።"
+  
+    },
+    "home":{
+      "start":"ከእኛ ጋር ይጀምሩ"
+    },
+    "testinomial":{
+      "client":"የደንበኞቻችን ምላሽ"
+    },
+    "Footer":{
+    "Allrightsreserved":" © 2016 ኩባንያ xx. ሁሉም መብቶች የተጠበቁ ናቸው።",
+    "Developers":"ገንቢዎች",
+    "Documentation":"ሰነድ",
+    "FAQ":"በተደጋጋሚ የሚጠየቁ ጥያቄዎች",
+    "Features":"ባህሪያት",
+    "feedback":"አስተያየት",
+    "Guid":"መመሪያ",
+    "Integrations":"ውህደቶች",
+    "Pricing":"የዋጋ አሰጣጥ",
+    "Privacy":"ግላዊነት",
+    "PublicApI":"የህዝብ ኤፒአይ",
+    "Socialmedia":"ማህበራዊ ሚዲያ",
+    "Termsofservice":"የአገልግሎት ውል",
+    "XX Electronics ":"XX ኤሌክትሮኒክስ"
+  }
+
+
+  }

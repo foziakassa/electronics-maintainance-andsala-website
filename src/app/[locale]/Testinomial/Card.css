@@ -1,0 +1,14 @@
+/* .testinomialCard {
+  animation: slideInFromRight 4s ease-in-out;
+  animation-iteration-count: infinite;
+  
+}
+
+@keyframes slideInFromRight {
+  0% {
+    transform: translateX(100%);
+  }
+  100% {
+    transform: translateX(0);
+  }
+} */

@@ -1,0 +1,25 @@
+{
+    "ServiceMain": {
+      "ourServices": "Our Services",
+      "seeMore": "See More",
+      "loading": "Loading...",
+      "error": "Error"
+    },
+    "Header": {
+      "home": "home",
+      "about": "about",
+      "service": "service",
+      "product": "pproduct",
+       "contact":"contact",
+      "faq" :"FAQ"
+    },
+    "WeAre":{
+      "weare":"we are",
+      "XXElectronicsMaintainanceAndSales":"XX Electronics Maintainance And Sales",
+      "Atour":"Xarunteena, waxaan aad ugu xiisayneynaa in qalabka elegtarooniga ah uu u shaqeeyo si habsami leh oo hufan. Kooxdayada farsamayaqaannada khabiirada ah iyo xirfadlayaasha iibka waxay u heellan yihiin bixinta dayactirka ugu sarreeya iyo adeegyada iibka dhammaan baahiyahaaga elegtarooniga ah."
+  
+    },
+    "testinomial":{
+      "client":" Client saying"
+    }
+  }

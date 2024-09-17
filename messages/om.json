@@ -1,0 +1,52 @@
+{
+  "ServiceMain": {
+    "ourServices": "Dhaabbileen Kuwa",
+    "seeMore": "Kanarraa Gaarii",
+    "loading": "Jiruuf...",
+    "error": "Dhiba"
+  },
+  "product": {
+    "ourProduct": "Urjiileen Kuwa",
+    "seeMore": "Kanarraa Gaarii",
+    "loading": "Jiruuf...",
+    "error": "Dhiba"
+  },
+  "Header": {
+      "home": "Galaana",
+      "about": "Baqaqaa",
+      "service": "Dhaabbilee",
+      "product": "Urjii",
+       "contact":"Gargaarsa",
+      "faq" :"Faqqee"
+      
+    },
+  "WeAre":{
+    "weare":"Nuti",
+    "XXElectronicsMaintainanceAndSales":"XX Elektirooniksii Dhaabbilee fi Gargaarsa",
+    "Atour":"Ati kampaniyaa keenya, nu gaarii elektirooniksii keenya dhaabbilee fi gargaarsa gaarii. Teamii keenya teknishiyaa fi salesii profesiyonaaleen keenya dhaabbilee fi gargaarsa gaarii elektirooniksii keenya."
+
+  },
+  "home":{
+    "start":"Bilisa keenya "
+  },
+  "testinomial":{
+      "client":" Clientii yeroon"
+    },
+    
+"Footer":{
+    "Allrightsreserved":"© 2016 kampaniyaa XX Dhaabbileen Kuwa",
+    "Developers":"Dhaabbileen",
+    "Documentation":"Dokumenteessoon",
+    "FAQ":"Faqqee",
+    "Features":"Feetarii",
+    "feedback":"Gargaarsa",
+    "Guid":"Gaayidee",
+    "Integrations":"Integraashini",
+    "Pricing":"Praaysiing",
+    "Privacy":"Priivaasii",
+    "PublicApI":"Pablik ApI",
+    "Socialmedia":"Sosiyal MeeDiya",
+    "Termsofservice":"Termsof Servis",
+    "XXElectronics":"XX Elektirooniksii"
+  }
+}

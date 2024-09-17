@@ -1,0 +1,165 @@
+@import url('https://fonts.googleapis.com/css2?family=Gupter:wght@400;700&display=swap');
+.Header{
+    align-items: center;
+    display: flex;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 1000;
+    justify-content: space-between;
+
+    padding: 15px 0;
+    text-align: center;
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+    transition: all 0.3s ease-in-out;
+    width: 100%; 
+    background-color: #ffffff;
+    padding:30px;
+    margin-button :100px;
+    margin-left:340px;
+}
+.Header:hover{
+    box-shadow: rgba(0, 0, 0, 0.2) 0px 8px 24px;
+    transform: translateY(-0.5px);
+}
+.Button a{
+    list-style-type: none;
+    text-decoration: none;
+    margin-left: 30px;
+    /* font-size:medium; */
+    font-family: 'Gupiter';
+    color:#001a00;
+    font-size: 18px;
+    font-weight: 400px;
+    text-transform:uppercase;
+    position: relative;
+    letter-spacing:1px
+}
+.Button a:hover{
+color: #009087;
+background-color: white;
+padding: 15px;
+
+border-radius: 5px;
+box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+.name{
+    display: flex;
+    align-items: center;
+    gap:15px
+}
+.name h1{
+    color:#009087;
+
+}
+
+.name img{
+    width: 60px;
+    border-radius: 50%;
+    margin-left:10px
+}
+.cartButton button{
+    height: 40px;
+    width: 200px;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+    border-radius: 20px;
+    background-color: #660000;
+    color: white;
+    cursor: pointer;
+    margin-right:-100px;
+    font-size: 20px;
+    /* text-decoration: none; */
+    text-transform:uppercase;
+    /* position: relative; */
+
+}
+.cartButton button:hover{
+    transform: translateY(-2px);
+    background-color: #4d0000;
+}
+ .cartButton p span{
+    background-color: #990000;
+    margin-left: 10px;
+    padding: 10px 20px ;
+    border-radius: 50%;
+    font-size: 15px;
+}
+.menuicon{
+    cursor: pointer;
+    display: none;
+    font-weight:bold;
+    font-size:30px;
+}
+
+   @media only screen and (max-width: 1200px) {
+    .Header {
+       flex-direction: row; /* stack elements vertically on mobile */
+       padding: 25px; /* reduce padding on mobile */
+     }
+    .name {
+       flex-direction: column; /* stack elements vertically on mobile */
+       align-items: center; /* center the logo and text on mobile */
+     }
+    .name h1 {
+       font-size: 23px; /* reduce font size on mobile */
+     }
+    
+     .menuicon{
+        display:block;
+        z-index:1;
+        margin-left:55px;
+     }
+     .Button{
+        display:none;
+        
+     }
+     .Button.responsive {
+        display: block;
+      }
+   }
+
+
+
+
+
+
+   @media only screen and (max-width: 520px) {
+    .Header {
+       flex-direction: row; /* stack elements vertically on mobile */
+       padding: 18px; /* reduce padding on mobile */
+     }
+    .name {
+       flex-direction: column; /* stack elements vertically on mobile */
+       align-items: center; /* center the logo and text on mobile */
+     }
+    .name h1 {
+       font-size: 18px; /* reduce font size on mobile */
+     }
+    
+     .menuicon{
+        display:block;
+        z-index:1;
+        margin-left:55px;
+        /* position:fixed; */
+     }
+     .Button{
+        display:none;
+        
+     }
+     .Button.responsive {
+        display: block;
+      }
+   }
+
+
+
+
+
+
+
+
+
+

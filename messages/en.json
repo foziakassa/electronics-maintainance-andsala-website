@@ -1,0 +1,54 @@
+{
+  "ServiceMain": {
+    "ourServices": "Our Services",
+    "seeMore": "See More",
+    "loading": "Loading...",
+    "error": "Error"
+  },
+  "product": {
+    "ourProduct": "Our product",
+    "seeMore": "See More",
+    "loading": "Loading...",
+    "error": "Error",
+    "readmore": "read More",
+    "detail":"detail"
+  },
+  "Header": {
+      "home": "home",
+      "about": "about",
+      "service": "service",
+      "product": "product",
+       "contact":"contact",
+      "faq" :"FAQ"
+      
+    },
+  "WeAre":{
+    "weare":"we are",
+    "XXElectronicsMaintainanceAndSales":"XX Electronics Maintainance And Sales",
+    "Atour":"At our campany, we're passionate about keeping your electronics running smoothly and efficiently. Our team of expert technicians and sales professionals are dedicated to providing top-notch maintenance and sales services for all your electronic needs."
+
+  },
+  "home":{
+    "start":"start with us "
+  },
+  "testinomial":{
+      "client":" Client saying"
+    },
+    
+"Footer":{
+    "Allrightsreserved":"© 2016 company xx All rights reserved",
+    "Developers":"Developers",
+    "Documentation":"Documentation",
+    "FAQ":"FAQ",
+    "Features":"Features",
+    "feedback":"feedback",
+    "Guid":"Guid",
+    "Integrations":"Integrations",
+    "Pricing":"Pricing",
+    "Privacy":"Privacy",
+    "PublicApI":"Public ApI",
+    "Socialmedia":"Social media",
+    "Termsofservice":"Terms of service",
+    "XXElectronics":"XXElectronics"
+  }
+}
