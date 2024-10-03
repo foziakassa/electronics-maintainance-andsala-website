@@ -38,30 +38,31 @@ export default function Lang() {
         {isFlagDropdownOpen && (
           <div className="dropdown-content  absolute bg-white shadow-md py-2 w-48">
             <ul>
+            <li>
+                <a href="#" className="flex items-center py-2 pl-4" onClick={() => handleFlagChange({ name: 'en', flag: us.src} )}>
+                  <img src={us.src} alt="US flag" className="w-7 h-7 mr-2" />
+                  English
+                </a>
+              </li>
               <li>
                 <a href="#" className="flex items-center py-2 pl-4 " onClick={() => handleFlagChange({ name: 'am', flag:am.src })}>
                   <img src={am.src} alt="Amhara flag" className="w-7 h-7 mr-2" />
-                  Amhara
+                  Amharic
                 </a>
               </li>
               <li>
                 <a href="#" className="flex items-center py-2 pl-4" onClick={() => handleFlagChange({ name: 'om', flag:oro.src })}>
                   <img src={oro.src} alt="Oromia flag" className="w-7 h-7 mr-2" />
-                  Oromia
+                  Oromiffa
                 </a>
               </li>
               <li>
                 <a href="#" className="flex items-center py-2 pl-4" onClick={() => handleFlagChange({ name: 'ti', flag: tg.src })}>
                   <img src={tg.src} alt="Tigray flag" className="w-7 h-7 mr-2" />
-                  Tigray
+                  Tigre
                 </a>
               </li>
-              <li>
-                <a href="#" className="flex items-center py-2 pl-4" onClick={() => handleFlagChange({ name: 'en', flag: us.src} )}>
-                  <img src={us.src} alt="US flag" className="w-7 h-7 mr-2" />
-                  US
-                </a>
-              </li>
+             
               <li>
                 <a href="#" className="flex items-center py-2 pl-4" onClick={() => handleFlagChange({ name: 'so', flag: sm.src })}>
                   <img src={sm.src} alt="Somali flag" className="w-7 h-7 mr-2" />
