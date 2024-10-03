@@ -31,7 +31,8 @@ export default function Testinomial() {
   if (isLoading) return <div className="">Loading...</div>;
   if (error) return <div className="">error</div>;
   if (data) {
-    console.log(data);
+    console.log(data.data[0]);
+    // data.data[0].message
     return (
       <div className="">
         <h1
