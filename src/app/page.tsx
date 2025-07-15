@@ -1,4 +1,4 @@
-
+'use client'
 // @ts-ignore
 import { I18nProvider } from 'next-i18next';
 
