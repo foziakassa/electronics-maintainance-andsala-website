@@ -1,11 +1,11 @@
 "use client";
-interface SocialMedia {
+interface SocialMediaa {
   SocialMediaData: {
     name: string;
     link: string;
   };
 }
-export default function SocialMedia(props: SocialMedia) {
+export default function SocialMedia(props: SocialMediaa) {
   const { SocialMediaData } = props;
   const socialMediaPaths = {
     facebook:
