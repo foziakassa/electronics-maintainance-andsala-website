@@ -89,7 +89,7 @@ const Service=()=>{
               </div>
               <div className="flex flex-col justify-center gap-5 px-16 ">
                 {services.data.map((item: ServiceData, index: number) => (
-                  <div className="flex-0 w-full justify-center">
+                  <div className="flex-0 w-full justify-center" key={index}>
                     <Card
                       key={index}
                       serviceData={item}
