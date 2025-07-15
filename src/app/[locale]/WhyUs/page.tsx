@@ -1,4 +1,4 @@
-
+'use client'
 import { CollectionQuery } from "@/Model/collection-query.model";
 import fetcher from "@/shared/utils/fetcher";
 import { useLocale, useTranslations } from "next-intl";

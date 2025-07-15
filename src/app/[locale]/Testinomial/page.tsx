@@ -1,3 +1,4 @@
+'use client'
 import "./Card.css";
 import useSwr from "swr";
 import TestinomialCard from "./TestinomialCard";
