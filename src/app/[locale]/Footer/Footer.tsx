@@ -142,7 +142,7 @@ export default function Footer() {
             {data ? (
               <div className="flex justify-center space-x-3 -ml-20">
                 {data.data.map((item:any, index: number) => (
-                  <div className="">
+                  <div className=""key={index}>
                     <SocialMedia 
                     SocialMediaData={item} 
                     key={index} />
