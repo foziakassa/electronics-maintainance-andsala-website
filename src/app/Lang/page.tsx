@@ -1,4 +1,5 @@
-import React, { useContext, useState } from 'react';
+'use client'
+import { useContext, useState } from 'react';
 import am from '../../Asset/flag/am.png';
 import oro from '../../Asset/flag/oro.jpeg';
 import us from '../../Asset/flag/us.jpeg';
