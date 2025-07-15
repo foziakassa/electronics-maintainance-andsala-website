@@ -11,3 +11,10 @@
 //       </div>
 //     );
 //   }
+export default function catt(){
+  return (
+    <div className="">
+      <h2>Cart</h2>
+    </div>
+  )
+}
