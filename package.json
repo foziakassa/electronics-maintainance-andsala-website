@@ -20,7 +20,8 @@
     "@mantinex/mantine-logo": "^1.0.1",
     "@tabler/icons-react": "^3.12.0",
     "antd": "^5.19.1",
-    "apexcharts": "^3.45.2",
+    "apexcharts": "^5.2.0",
+
     "axios": "^1.10.0",
     "flatpickr": "^4.6.13",
     "intl": "^1.2.5",
